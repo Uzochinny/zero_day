@@ -1,1 +1,1 @@
-viagrant task
+new vagrant task
